@@ -24,8 +24,8 @@ View the dashboard on Tableau Public (For Desktop-view only):
 https://public.tableau.com/app/profile/nicholas.neuschwander/viz/duquesne_dashboard/offensivepossessions
 
 PDF guide to understand the dashboard:
-
 [Duquesne Dashboard Guide.pdf](https://github.com/user-attachments/files/18891067/Duquesne.Dashboard.Guide.pdf)
+
 
 ##
 
