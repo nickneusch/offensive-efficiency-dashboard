@@ -4,6 +4,7 @@ I developed an interactive dashboard for the Duquesne University Basketball coac
 
 <img width="1004" alt="Screenshot 2025-02-20 at 4 49 19 PM" src="https://github.com/user-attachments/assets/8a64b9fd-d2d8-4526-9923-55ade4b7f037" />
 
+(View interactive dashboard attached below)
 
 ## Motivation
 
