@@ -21,7 +21,7 @@ My friend, Taylor, owns a sports cards business. Within his business, he submits
 ### View on Tableau Public
 
 View the dashboard on Tableau Public (For Desktop-view only):
-https://public.tableau.com/app/profile/nicholas.neuschwander/viz/Tay_CollectsPSADashboard/Dashboard3
+[https://public.tableau.com/app/profile/nicholas.neuschwander/viz/Tay_CollectsPSADashboard/Dashboard3](https://public.tableau.com/app/profile/nicholas.neuschwander/viz/duquesne_dashboard/offensivepossessions)
 
 ##
 
