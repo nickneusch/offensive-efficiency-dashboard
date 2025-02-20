@@ -1,10 +1,9 @@
 # offensive-efficiency-dashboard
 
-I developed an interactive dashboard to optimize sports card submissions to PSA by using analytics to assess grading potential and maximize value while minimizing costs. Analytics were focused on the "Gem Rate" (percentage of cards that graded as a "gem") because these are the most profitable cards.
+I developed an interactive dashboard for the Duquesne University Basketball coaching staff to analyze their offensive possessions. Analytics are focused on paint touches, post touches, and shooting efficiency on different spots of the court.
 
-Currently only configured for my friend, but may restructure for other users in the future.
+<img width="1004" alt="Screenshot 2025-02-20 at 4 49 19 PM" src="https://github.com/user-attachments/assets/8a64b9fd-d2d8-4526-9923-55ade4b7f037" />
 
-<img src="https://github.com/user-attachments/assets/bae9965d-ddf1-421a-8230-8cf000d5bd24" alt="PSA Grading Analytics Dashboard" width="1000">
 
 ## Motivation
 
