@@ -1,5 +1,7 @@
 # offensive-efficiency-dashboard
 
+(Data is not provided for privacy reasons)
+
 I developed an interactive dashboard for the Duquesne University Basketball coaching staff to analyze their offensive possessions. Analytics are focused on paint touches, post touches, and shooting efficiency on different spots of the court.
 
 <img width="950" alt="Screenshot 2025-02-20 at 4 49 19 PM" src="https://github.com/user-attachments/assets/8a64b9fd-d2d8-4526-9923-55ade4b7f037" />
@@ -11,10 +13,10 @@ I developed an interactive dashboard for the Duquesne University Basketball coac
 My friend, Taylor, owns a sports cards business. Within his business, he submits cards for grading to PSA (Professional Sports Authenticator). Each card is graded on a scale from 1-10, depending on the quality of four main categories: centering, corners, edges, and surface condition. A higher numerical grade indicates a more prestine card. Thus, cards that receive higher grades are worth exponentially more than their raw (ungraded) value, however, cards that receive a low grade can decrease the value of the card. Additionally, there is a ~$20 fee to grade each card. Therefore, it is important to be selective when deciding which cards to submit. I created this dashboard to help Taylor use analytics to help guide his decision-making.
 
 ## Workflow
-1. Download the data for each submission from PSA. A submission is a group of cards submitted in the same order.
-2. Clean the data with a python script. Taylor allows other people to submit their cards in his orders. Therefore, the data was only used from his cards.
-3. Process the data with a python script. The data downloaded from PSA lists the card description, but does not distinguish its qualities seperately (ex. 2020 PANINI SELECT 61 JUSTIN JEFFERSON DIE-CUT PURPLE PRIZM). The description was parsed to extract the year, brand, card number, variation/parallel, and player name.
-4. Import the data into Tableau to create an interactive dashboard. Analytics were focused on the "gem rate" (percentage of cards that graded as a "gem") because these are the most profitable cards. Data was analyzed by gem rate vs. order number, brands, parallels, sports, and players. Filters were added to introduce new perspectives of the data. Filters include order number, brand, year, parallel, and player name.
+1. Watch the film of each Duquesne Basketball game while collecting various stats (ex. paint touches, post touches, region of the court each shot is taken, points, etc).
+2. Ensure data is prepped to be imported into Tableau through a python script
+3. Data is imported into Tableau and analyzed with various Tableau "Custom Calculations"
+4. Combine multiple tables into the dashboard. Add a filters tab that analyzes the data based on which filters are chosen.
 
 ##
 
