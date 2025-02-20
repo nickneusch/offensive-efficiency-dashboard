@@ -14,9 +14,9 @@ My friend, Taylor, owns a sports cards business. Within his business, he submits
 
 ## Workflow
 1. Watch the film of each Duquesne Basketball game while collecting various stats (ex. paint touches, post touches, region of the court each shot is taken, points, etc).
-2. Ensure data is prepped to be imported into Tableau through a python script
-3. Data is imported into Tableau and analyzed with various Tableau "Custom Calculations"
-4. Combine multiple tables into the dashboard. Add a filters tab that analyzes the data based on which filters are chosen.
+2. Ensure data is prepped to be imported into Tableau through a python script.
+3. Data is imported into Tableau and analyzed with various Tableau "Custom Calculations" that I have created.
+4. Create and combine multiple tables into the dashboard. Add a filters tab that analyzes the data based on which filters are chosen.
 
 ##
 
