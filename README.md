@@ -10,13 +10,14 @@ I developed an interactive dashboard for the Duquesne University Basketball coac
 
 ## Motivation
 
-My friend, Taylor, owns a sports cards business. Within his business, he submits cards for grading to PSA (Professional Sports Authenticator). Each card is graded on a scale from 1-10, depending on the quality of four main categories: centering, corners, edges, and surface condition. A higher numerical grade indicates a more prestine card. Thus, cards that receive higher grades are worth exponentially more than their raw (ungraded) value, however, cards that receive a low grade can decrease the value of the card. Additionally, there is a ~$20 fee to grade each card. Therefore, it is important to be selective when deciding which cards to submit. I created this dashboard to help Taylor use analytics to help guide his decision-making.
+The Duquesne Basketball coaching staff was seeking to understand their offensive possessions at a higher level. I created this dashboard to analyze and communicate various factors of their offensive possessions. I watch each game to ensure that the data is being collected exactly as the coaching staff has asked for (what is considered a post touch, what is considered a non-rim 2, etc). At the beginning of the season, I would collect the stats and then have to create a pivot table in excel to analyze the stats manually after each game. Eventually, I had the idea to create a dashboard so I could simply collect the data and import it into Tableau to be analyzed. Additionally, this provides the coaching staff with easy access to do analysis on their own.
 
 ## Workflow
 1. Watch the film of each Duquesne Basketball game while collecting various stats (ex. paint touches, post touches, region of the court each shot is taken, points, etc).
 2. Ensure data is prepped to be imported into Tableau through a python script.
 3. Data is imported into Tableau and analyzed with various Tableau "Custom Calculations" that I have created.
 4. Create and combine multiple tables into the dashboard. Add a filters tab that analyzes the data based on which filters are chosen.
+5. After each game, I update the dashboard and include a short written report with my analysis of the previous game.
 
 ##
 
